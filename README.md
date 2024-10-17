@@ -1,6 +1,5 @@
 # Hi there! I'm Roshan Neupane 👋
 
-## About Me
 I’m a software engineer with a background in computer science, specializing in game development. Currently, I’m diving into .NET and C# to expand my skill set.
 
 ## Skills
