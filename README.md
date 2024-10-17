@@ -7,7 +7,7 @@
 
 
 #### Currently Learning
-📚 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 # Projects
 📄 Here are a few projects I’ve worked on:
